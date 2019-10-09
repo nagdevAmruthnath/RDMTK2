@@ -13,10 +13,10 @@ Vinay B Gavirangaswamy & Ajay Gupta, Western Michigan University
 The packages has been compiled on ubuntu 18.x and documentation has been developed using roxygen2. No errors were noted during compilation.   
 
 ## Requirements
-Dependencies: 
-  `sudo apt-get install libmariadbclient-dev`  
+Dependencies:   
+&nbsp; &nbsp;&nbsp;`sudo apt-get install libmariadbclient-dev`  
 R Packages:   
-  fOptions, DBI, pwr, RMySQL, devtools  
+&nbsp; &nbsp;&nbsp; fOptions, DBI, pwr, RMySQL, devtools  
 
 ## Running on Docker image
 1. Pull docker image and run docker container  
