@@ -1,0 +1,13 @@
+Package: RDMtk2
+Type: Package
+Title: RDMTk: A Toolkit for Risky Decision Making
+Version: 0.1.1
+Author:Vinay B Gavirangaswamy
+Maintainer: Nagdev Amruthnath <nagdev.amruthnath92@gmail.com>
+Description: RDMTk: A Toolkit for Risky Decision Making The process or activity of making choices when subject to possibility of loss can be understood as risky decision-making (RDM). Results from computational decision-making are used in a variety of disciplines including marketing, sales, inventory management, psychology, behavioral research and finance.
+License: None
+Encoding: UTF-8
+LazyData: true
+Imports: fOptions, DBI, pwr, RMySQL
+RoxygenNote: 6.1.1
+
