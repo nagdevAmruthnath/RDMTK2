@@ -10,13 +10,13 @@ Current implementation of the toolkit supports a good number of constituent elem
 Vinay B Gavirangaswamy & Ajay Gupta, Western Michigan University
 
 ## Updates to original source
-The packages has been compiled on ubuntu 18.x and documentation has been developed using roxygen2. No errors were noted during compilation. 
+The packages has been compiled on ubuntu 18.x and documentation has been developed using roxygen2. No errors were noted during compilation.   
 
 ## Requirements
 Dependencies: 
-  `sudo apt-get install libmariadbclient-dev`
-R Packages: 
-  fOptions, DBI, pwr, RMySQL, devtools
+  `sudo apt-get install libmariadbclient-dev`  
+R Packages:   
+  fOptions, DBI, pwr, RMySQL, devtools  
 
 ## Running on Docker image
 1. Pull docker image and run docker container  
